@@ -6,11 +6,11 @@ datePublished: Tue Jul 08 2025 13:13:06 GMT+0000 (Coordinated Universal Time)
 cuid: cmcujvy5k001t02l5hc5t61cp
 slug: mvvm-architectural-pattern-in-android
 canonical: https://medium.com/@mohammedkhudair57/mvvm-architectural-pattern-in-android-617b12537d4c
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751981885185/28d75e11-6f18-4749-9ac4-e1df1542c981.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1751981983769/42206702-3e20-40da-a38b-26a626859b86.png
 tags: android-app-development, mvvm, kotlin, android-studio, jetpack-compose, architecture-design
 
 ---
-
-![This diagram illustrates communications between the components.](https://cdn.hashnode.com/res/hashnode/image/upload/v1751979717044/efbef987-389c-4b31-9935-a22f4d8a2c68.png align="left")
 
 ## Introduction
 
