@@ -7,7 +7,7 @@ cuid: cmd1aocmb000302jy0tqa8on2
 slug: kotlin-scope-functions-870475a32f05
 canonical: https://medium.com/@mohammedkhudair57/kotlin-scope-functions-870475a32f05
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1752065088149/619e18de-04fb-4289-97bc-252941aa397f.png
-tags: kotlin, let, apply, run, scope-function, with, kotlin-scope-function, also
+tags: android-development, android, kotlin, let, apply, run, scope-function, with, kotlin-scope-function, also
 
 ---
 
