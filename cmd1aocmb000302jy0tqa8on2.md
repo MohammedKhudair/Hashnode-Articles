@@ -11,7 +11,7 @@ tags: kotlin, let, apply, run, scope-function, with, kotlin-scope-function, also
 
 ---
 
-> “It took me days **and several cups of coffee** to craft this story, so it’s a comprehensive guide packed with examples for each scope function. By the end, you’ll be able to use them with confidence\*\*.\*\*
+> **“<mark>It took me days and several cups of coffee to craft this story, so it’s a comprehensive guide packed with examples for each scope function. By the end, you’ll be able to use them with confidence</mark>”**
 
 # **Overview**
 
@@ -32,6 +32,8 @@ Please take a look at this diagram here. Don’t worry, we’ll go over each one
 **Scope functions in Kotlin** simplify object handling by letting you operate within a defined scope without repeating the object’s name.  
  They boost readability and maintainability by grouping related operations and reducing boilerplate code.  
  While they don’t `add new features`, they make your code cleaner, concise, and more expressive.
+
+---
 
 # Get Started with the Functions
 
@@ -632,6 +634,8 @@ fun main() {
 // HELLO
 ```
 
+---
+
 # When to Use What
 
 It’s very common to feel confused by scope functions at first. The trick is to focus on **what you want to do with the object** and **what you expect back** from the block.
@@ -673,6 +677,8 @@ You now have the key concepts of **Scope Functions.** Put them into practice, an
 So, **next time** you’re crafting Kotlin code, remember the unique strengths of each scope function. Experiment with them, and you’ll likely discover new ways to make your code cleaner and more effective.
 
 > **See every challenge as a puzzle waiting to be solved. Enjoy the process!**
+
+---
 
 ## Follow me on:
 
